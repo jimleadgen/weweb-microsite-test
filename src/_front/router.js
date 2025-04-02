@@ -25,7 +25,7 @@ import pluginsSettings from '../../plugins-settings.json';
 // eslint-disable-next-line no-undef
 window.wwg_designInfo = {"id":"76d9003e-3ce7-4fd4-95d3-159c06794981","homePageId":"59b165ff-a992-48be-9f80-98cf218833d6","authPluginId":null,"baseTag":null,"defaultTheme":"light","langs":[{"lang":"en","default":true}],"background":{},"workflows":[],"pages":[{"id":"59b165ff-a992-48be-9f80-98cf218833d6","linkId":"59b165ff-a992-48be-9f80-98cf218833d6","name":"Home","folder":null,"paths":{"en":"home","default":"home"},"langs":["en"],"cmsDataSetPath":null,"sections":[{"uid":"ad818d71-164e-4c41-b074-91572a5ddf21","sectionTitle":"Header","linkId":"c45601f8-7a5e-423d-a961-0a69320d2b55"},{"uid":"a2825606-1cf2-487e-9cb9-7612a996896f","sectionTitle":"Features","linkId":"7be8f556-8a11-48d1-a03f-4a9a3c1428be"},{"uid":"dba77431-b947-45e4-b199-f25425a25b25","sectionTitle":"Pricing","linkId":"1c883bc3-2900-4cc2-8ea0-8426f6cd04e7"},{"uid":"75a3ef3a-63d7-497f-8f43-f3c6646c1b20","sectionTitle":"Footer","linkId":"f61d97c7-84bd-46d3-b339-9ad8b79117d1"}],"pageUserGroups":[],"title":{"en":"Blank | Start from scratch","fr":"Vide | Commencer à partir de zéro"},"meta":{"desc":{},"keywords":{},"socialDesc":{},"socialTitle":{},"structuredData":{}},"metaImage":""}],"plugins":[]};
 // eslint-disable-next-line no-undef
-window.wwg_cacheVersion = 3;
+window.wwg_cacheVersion = 4;
 // eslint-disable-next-line no-undef
 window.wwg_pluginsSettings = pluginsSettings;
 // eslint-disable-next-line no-undef
